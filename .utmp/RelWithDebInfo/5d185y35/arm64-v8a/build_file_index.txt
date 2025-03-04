@@ -1,0 +1,2 @@
+D:\Unityy\projects\VR_GameCheck\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Unityy\projects\VR_GameCheck\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
